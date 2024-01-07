@@ -1,2 +1,3 @@
 remote location file
-i am changing local repo changes second
+<<<<<<< HEAD
+i am changing both local and remote location files
